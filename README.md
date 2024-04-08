@@ -1,4 +1,4 @@
-# build-noetic-on-jammy-deb
+# build-noetic-on-bookworm-deb
 
 Ubuntu 22.04 (Jammy Jellyfish) 用の [ROS 1 Noetic Ninjemys](http://wiki.ros.org/noetic) の binary debian package を生成するためのツール
 
